@@ -1,0 +1,22 @@
+{
+  "name": "controller-generator",
+  "version": "1.0.0",
+  "description": "Script to generate backend node-express.js controller file with basic reading/writing of the table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhil4755/controller-generator.git"
+  },
+  "author": "Akhil D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhil4755/controller-generator/issues"
+  },
+  "homepage": "https://github.com/akhil4755/controller-generator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
